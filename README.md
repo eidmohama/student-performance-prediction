@@ -62,6 +62,4 @@ A fixed random state of 42 was used where applicable to make the experiment repr
 Eid Mohammad Qasimi  
 MSc Computer Science  
 GISMA University of Applied Sciences
-Eid Mohammad Qasimi  
-MSc Computer Science  
-GISMA University of Applied Sciences
+
